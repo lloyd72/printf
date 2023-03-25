@@ -1,8 +1,14 @@
+<<<<<<< HEAD
 ### _0x11. C - printf
+=======
+0x11. C - printf
+
+>>>>>>> 5011e9d2a778380cb66691dd6044c7079676cbf7
 Hello, welcome to our first group project, we're replicating the printf() function from the C Standard Library.
 
  ### version 1.0
 
+<<<<<<< HEAD
  ## Introduction to the project
 
  Project _printf() - Produce output to stdout according to a format described below similar to the printf() function.
@@ -13,12 +19,51 @@ Hello, welcome to our first group project, we're replicating the printf() functi
  - Compiler: gcc 9.3.0
  - Wall -Werror -Wextra -pedantic -std=gnu89
  - Style guidelines: [Betty style]
+=======
+Language: C
+
+Editor: VIM 8.1.2269
+
+Compiler: gcc 9.3.0
+
+Wall -Werror -Wextra -pedantic -std=gnu89
+
+Style guidelines: [Betty style]
+
+Project specification
+
+No allowed to use global variable
+
+No more than 5 functions per file
+
+All files end with a new line
+
+Specifiers
+
+Specifier characters at the end define the type and the interpretation of its corresponding argument:
+
+Specifier	Output
+
+c	character
+
+s	string
+
+d or i	Signed integer
+
+%	%
+
+Repository files
+>>>>>>> 5011e9d2a778380cb66691dd6044c7079676cbf7
 
  ## Project specification
 
+<<<<<<< HEAD
  - No allowed to use global variable
  - No more than 5 functions per file
  - All files end with a new line
+=======
+To install execute in terminal git clone https://github.com/lloyd72/printf
+>>>>>>> 5011e9d2a778380cb66691dd6044c7079676cbf7
 
  <h3>Specifiers </h3>
  Specifier characters at the end define the type and the interpretation of its corresponding argument:
@@ -56,6 +101,7 @@ Hello, welcome to our first group project, we're replicating the printf() functi
  ## EXAMPLES ##
  - _printf functions examples:
 
+<<<<<<< HEAD
  - _printf("Character:[%c]\n", 'H');
    + Output: char: [H]
  - _printf("String:[%s]\n", "I am a string !");
@@ -66,3 +112,12 @@ Hello, welcome to our first group project, we're replicating the printf() functi
    + Output: Percent: [%%]
 
  # Flowchart
+=======
+Output: Percent: [%%]
+
+Flowchart 
+
+![Untitled Diagram drawio-2](https://user-images.githubusercontent.com/122834454/227739331-b03202b0-7118-41ac-9347-be8ce14557e2.png)
+
+Created by Sintim LLoyd and Miguel Buassa
+>>>>>>> 5011e9d2a778380cb66691dd6044c7079676cbf7
