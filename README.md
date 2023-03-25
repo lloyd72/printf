@@ -37,7 +37,7 @@ man_3_printf	man page
 printf_flowchart.png	flowchart _printf
 Install
 
-To install execute in terminal git clone https://github.com/Dr-dyrane/printf.git
+To install execute in terminal git clone https://github.com/lloyd72/printf
 
 Compilation
 
@@ -59,3 +59,8 @@ Output: decimal: [10000]
 _printf("Percent: [%%]\n");
 
 Output: Percent: [%%]
+
+Flowchart 
+
+![Untitled Diagram drawio-2](https://user-images.githubusercontent.com/122834454/227739331-b03202b0-7118-41ac-9347-be8ce14557e2.png)
+Created by Sintim LLoyd and Miguel Buassa
