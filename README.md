@@ -1,4 +1,4 @@
-### _0x11. C - printf
+## _0x11. C - printf
 
 
 Hello, welcome to our first group project, we're replicating the printf() function from the C Standard Library.
