@@ -1,27 +1,42 @@
 0x11. C - printf
+
 Hello, welcome to our first group project, we're replicating the printf() function from the C Standard Library.
 
 version 1.0
 Environment
 
 Language: C
+
 Editor: VIM 8.1.2269
+
 Compiler: gcc 9.3.0
+
 Wall -Werror -Wextra -pedantic -std=gnu89
+
 Style guidelines: [Betty style]
+
 Project specification
 
 No allowed to use global variable
+
 No more than 5 functions per file
+
 All files end with a new line
+
 Specifiers
 
 Specifier characters at the end define the type and the interpretation of its corresponding argument:
+
 Specifier	Output
+
 c	character
+
 s	string
+
 d or i	Signed integer
+
 %	%
+
 Repository files
 
 File	Description
