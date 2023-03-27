@@ -113,9 +113,9 @@
  		flags, 'X', width, precision, size));
  }
 
- /************** PRINTS HEX NUMB IN LOWER OR UPPER **************/
- /**
-  * print_hexa - Prints a hexadecimal number in lower or upper
+/************** PRINTS HEX NUMB IN LOWER OR UPPER **************/
+/**
+ *print_hexa - Prints a hexadecimal number in lower or upper
   * @types: Lista of arguments
   * @map_to: Array of values to map the number to
   * @buffer: Buffer array to handle print
@@ -151,11 +151,4 @@
 
  	if (flags & F_HASH && init_num != 0)
  	{
- 		buffer[i--] = flag_ch;
- 		buffer[i--] = '0';
- 	}
-
- 	i++;
-
- 	return (write_unsgnd(0, i, buffer, flags, width, precision, size));
- }
+ 		buffer[i--] = 
