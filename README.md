@@ -67,15 +67,14 @@ To install execute in terminal git clone https://github.com/lloyd72/printf
  <h3>Specifiers </h3>
  Specifier characters at the end define the type and the interpretation of its corresponding argument:
 
- | Specifier  | Output          |
- |------------|-----------------|
- | `c`        | character       |
- | `s`        | string          |
- | `d` or `i` | Signed integer  |
- | `%`        | %               |
+| Specifier	| Output          	|
+|--------------	|----------------------	|
+| `c`		| character		|
+| `s`		| string		|
+| `d` or `i`	| Signed integer	|
+| `%`		| %			|
 
- 
- ## Install
+## Install
  To install execute in terminal
  git clone https://github.com/lloyd72/printf.git
 
