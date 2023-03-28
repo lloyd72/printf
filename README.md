@@ -2,9 +2,11 @@
 
 
 Hello, welcome to our first group project, we're replicating the printf() function from the C Standard Library.
-his `printf` project was built by [Sintim Lloyd]() and [Miguel Buassa](). The objective of this project was to help us apply most of the concepts we have learnt so far in C into building a mini project. Also, it objectives was to help us understand how to collaborate with other developers, and also to make us have an understanding of how the C `printf` function actually works.
+
+This `printf` project was built by [Sintim Lloyd]() and [Miguel Buassa](). The objective of this project was to help us apply most of the concepts we have learnt so far in C into building a mini project. Also, it objectives was to help us understand how to collaborate with other developers, and also to make us have an understanding of how the C `printf` function actually works.
 ### GitHub profiles
 https://github.com/lloyd72
+
 https://github.com/BuassaM
 
  ### version 1.0
@@ -72,21 +74,7 @@ To install execute in terminal git clone https://github.com/lloyd72/printf
  | `d` or `i` | Signed integer  |
  | `%`        | %               |
 
- ## Repository files
-
- |**File**|**Description**|
- |--------|---------------|
- |README.md|this file|
- |\_putchar.c|putchar function|
- |get_function.c|get_function function|
- |main.h|header file|
- |print_char.c|print_char function|
- |print_digit.c|print_digit function|
- |print_string.c|print_string function|
- |printf.c|main function|
- |man_3_printf | man page|
- |printf_flowchart.png | flowchart _printf|
-
+ 
  ## Install
  To install execute in terminal
  git clone https://github.com/lloyd72/printf.git
